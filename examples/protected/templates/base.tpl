@@ -1,4 +1,4 @@
-{% comment %} This is the base template. {% endcomment %}
+{%#comment %} This is the base template. {% endcomment %}
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -13,3 +13,4 @@
 		</div>
     </body>
 </html>
+ 
